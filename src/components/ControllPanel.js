@@ -29,15 +29,15 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 20,
-    backgroundColor: 'white',
+    backgroundColor: 'black',
   },
   controlText: {
-    color: 'black',
+    color: 'white',
   },
   button: {
-    backgroundColor: 'blue',
+    backgroundColor: 'white',
     borderWidth: 1,
-    borderColor: 'white',
+    borderColor: 'black',
     padding: 10,
   }
 })
